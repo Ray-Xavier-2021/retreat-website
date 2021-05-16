@@ -87,7 +87,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   
 /*-----Base Header-Footer Styles-----*/
+.content-wrapper {
+  width: 90%;
+  padding: 50px 0;
+
+}
 
 header,
 footer {
@@ -100,7 +106,7 @@ footer {
 /*-----Header-----*/
 
 header {
-
+  padding: 15px 0;
 }
 
 header .content-wrapper {
@@ -108,6 +114,7 @@ header .content-wrapper {
   justify-content: center;
   align-content: center;
   flex-flow: row wrap;
+  margin: 0;
 }
 
 header figure {
@@ -115,27 +122,36 @@ header figure {
 }
 
 .header-divider {
-
+  width: 100%;
 }
 
 header nav {
+  width: 60%;
   display: flex;
   justify-content: space-around;
   align-content: center;
   flex-flow: row wrap;
 }
 header nav ul {
-
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  list-style: none;
 }
 
 /*-----Footer----*/
 
 footer {
+  flex-direction: column;
+}
 
+footer p {
+  margin: 0;
 }
 
 footer .content-wrapper {
-
+  width: 55%;
+  margin: 50px 0;
 }
 
 .footer-content {
@@ -143,11 +159,11 @@ footer .content-wrapper {
 }
 
  footer .contact {
-
+  margin-bottom: 50px;
 }
 
 footer .social {
-
+  margin-bottom: 50px;
 }
 
 footer .social-icons {
@@ -163,7 +179,7 @@ footer .social-icons p {
 }
 
 footer .copyright {
-  
+  margin: 20px 0;  
 }
 
 /*-----Mobile Homepage-----*/
@@ -211,12 +227,21 @@ aside .content-wrapper {
   flex-flow: row wrap;
 }
 
+.features h2 {
+  margin-bottom: 50px;
+}
+
+.features p {
+  margin: 0;
+}
+
 .features .content-wrapper {
 
 }
 
-article {
-
+.features article {
+  width: 60%;
+  margin: 30px 0;
 }
 
 .fontawesome-icon {
@@ -240,6 +265,13 @@ article {
 
 }
 
+.reviews h2 {
+  margin-bottom: 40px;
+}
+.review h3 {
+  width: 55%;
+  margin: 20px 0;
+}
 /*-----Mobile About-Page-----*/
 
 .mission {
@@ -270,8 +302,8 @@ article {
   flex-flow: row wrap;
 }
 
-.contact-section .content-wrapper {
-
+.contact-section p {
+  margin: 0;
 }
 
 .contact-section .contact-content {
@@ -292,10 +324,14 @@ article {
   justify-content: center;
   align-content: center;
   flex-flow: row wrap;
+  margin-top: 50px;
 }
 
-.faq .faq-content {
-
+.faq h2 {
+  margin-bottom: 40px;
+}
+.faq-content {
+  margin-bottom: 50px;
 }
 
 /* ==========================================================================
