@@ -1,0 +1,125 @@
+[33mcommit 9098d33c6604f37115bf7119fc02c1a1dacfdc0a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Mon May 24 16:46:16 2021 -0400
+
+    Implemented and added remainder of styles to other pages
+
+[33mcommit 148705af52bf8ea81f8bb0434189d04c9b8c1668[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Mon May 24 16:44:29 2021 -0400
+
+    N/a
+
+[33mcommit 29e4a841b6c9423840b038bb27e51ff4b5738acb[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Mon May 24 16:02:40 2021 -0400
+
+    Added style for links, headers and paragraphs
+
+[33mcommit 6e52679ddb57ab9b4f23f2da088ea0b3164831eb[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Thu May 20 16:13:24 2021 -0400
+
+    Added desktop media query
+
+[33mcommit c6cc2b0255541af4dfe2834c626ecb0c4f46daa1[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Tue May 18 20:01:17 2021 -0400
+
+    Corrected class spelling for features div
+
+[33mcommit 66ed35ada99b4ed59f757368711d1d07425e9a5b[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Tue May 18 18:26:25 2021 -0400
+
+    Edited css
+
+[33mcommit 55d6735eed50a15c4b9c958f95dc3f60dc34d3f9[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Tue May 18 18:25:55 2021 -0400
+
+     Added featured-items div
+
+[33mcommit 58cbdc64b0aa92c73f7184c616b763f10fb8295e[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Mon May 17 19:29:44 2021 -0400
+
+    Added tablet breakpoint format
+
+[33mcommit 174fcac11ca35654b7c010ed942c7068438829fb[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Mon May 17 19:28:55 2021 -0400
+
+    Temporarily removed logo icon
+
+[33mcommit 6d05190c1d7d21c8d73e7901bc885235a054e547[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Sun May 16 15:56:29 2021 -0400
+
+    Added width margins and paddings for mobile layout
+
+[33mcommit 8d4bcefc9bd7a5a8290b413ab3e55910871ffc2b[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Sun May 16 15:54:28 2021 -0400
+
+    Edited hero-area and features-item-description
+
+[33mcommit da698572349a978e81981a194dbe08b39d644df0[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Sat May 15 19:11:43 2021 -0400
+
+    Removed line break from form text input
+
+[33mcommit 469cad7d327d1cae17386d7f628824532120f0a4[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Sat May 15 19:10:03 2021 -0400
+
+    Added layout using flexbox
+
+[33mcommit 62ad107d610af95d9f89ee6498d99913b3ca470e[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Fri May 14 16:27:53 2021 -0400
+
+    Added faq section
+
+[33mcommit f9d60a9874ccfcc4a3ef2a14cc36a734c9096f65[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Fri May 14 15:55:27 2021 -0400
+
+    Added homepage link
+
+[33mcommit 03c2d147dd98047db693a767ae402609e6fea232[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Fri May 14 15:37:03 2021 -0400
+
+    Added mission map and contact section
+
+[33mcommit 8ce815eee61944a1f02549eedf3e4cda466b4b07[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Fri May 14 14:35:32 2021 -0400
+
+    Finished homepage html layout
+
+[33mcommit fcae4c3178fe45b27f55623747b19dc5004a5498[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Thu May 13 21:34:25 2021 -0400
+
+    Added mobile first header and footer layout
+
+[33mcommit 588974c4918849076bc97dcbfcf7c796eff2fdb6[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Thu May 13 17:27:04 2021 -0400
+
+    Updated all the links
+
+[33mcommit c744f7c91fbee20440a0fec11af987c38bcd2800[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Thu May 13 17:24:41 2021 -0400
+
+    Added index.html file to about and faq dir
+
+[33mcommit 30ab1bfa01355073728765881ed9a10a53106aa6[m
+Author: Ray-Xavier-2021 <rayxavier.frontenddev.2021@gmail.com>
+Date:   Thu May 13 17:04:29 2021 -0400
+
+    Added about and faq directory
