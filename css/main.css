@@ -247,12 +247,15 @@ footer .copyright {
 .hero-area h1 {
   color: #e2e3ed;
   font-family: 'Poppins', sans-serif;
+  font-weight: 500;
   font-size: 2.25em;
+  line-height: 1.2;
 }
 
 /* Aside */
 
 aside {
+  background-color: #527158;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -316,6 +319,7 @@ input[type=button] {
 /* Reviews */
 
 .reviews {
+  background-color: #2a423a;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -336,6 +340,7 @@ input[type=button] {
    ========================================================================== */
 
 .mission {
+  background-color: #527158;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -343,6 +348,7 @@ input[type=button] {
 }
 
 .contact-section {
+  background-color: #2a423a;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -358,6 +364,7 @@ input[type=button] {
    ========================================================================== */
 
 .faq {
+  background-color: #527158;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -374,10 +381,15 @@ input[type=button] {
 
 .faq h2 {
   margin-bottom: 40px;
+  line-height: 1;
 }
 
 .faq-content {
   margin-bottom: 50px;
+}
+
+.faq-content h4 {
+  line-height: 1;
 }
 
 /* ==========================================================================
