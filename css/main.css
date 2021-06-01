@@ -362,6 +362,22 @@ input[type=button] {
   flex-flow: row wrap;
 }
 
+.map figure {
+  width: 100%;
+  height: 0; 
+  padding-bottom: 125%; 
+  overflow: hidden;
+  position: relative;
+}
+
+.map iframe {
+  width: 100%;
+  height: 100%;
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+}
+
 .contact-section {
   background-color: #2a423a;
   display: flex;
@@ -381,25 +397,10 @@ input[type=button] {
   }
 
   .contact-content p {
-  margin: 0;
+    margin: 0;
   }
 
-  .map figure {
-    width: 100%;
-    height: 0; 
-    padding-bottom: 125%; 
-    overflow: hidden;
-    position: relative;
-  }
- 
-  .map iframe {
-      width: 100%;
-      height: 100%;
-      position: absolute; 
-      top: 0; 
-      left: 0; 
-  }
-
+  
 
 /* ==========================================================================
    FAQ Page
@@ -669,6 +670,23 @@ input[type=button] {
     .mission-content p {
       width: 45%;
     }
+
+    .map figure {
+      width: 100%;
+      height: 0; 
+      padding-bottom: 46%; 
+      overflow: hidden;
+      position: relative;
+    }
+   
+    .map iframe {
+        width: 100%;
+        height: 100%;
+        position: absolute; 
+        top: 0; 
+        left: 0; 
+    }
+  
   
     .contact-section .content-wrapper h2 {
       width: 80%;
@@ -758,6 +776,23 @@ input[type=button] {
     .contact-section .content-wrapper h2 {
         width: 100%
     }
+
+    .map figure {
+      width: 100%;
+      height: 0; 
+      padding-bottom: 37%; 
+      overflow: hidden;
+      position: relative;
+    }
+   
+    .map iframe {
+        width: 100%;
+        height: 100%;
+        position: absolute; 
+        top: 0; 
+        left: 0; 
+    }
+  
  
     /*-----FAQ Page-----*/
 
