@@ -550,7 +550,7 @@ input[type=button] {
 
     h2 {
       font-size: 2.25em;
-      line-height: 1;
+      line-height: 1.333;
     }
 
     h3 {
@@ -567,13 +567,11 @@ input[type=button] {
     header .content-wrapper {
       width: 100%;
       justify-content: space-between;
-      padding: 33px 0;
     }
 
     header figure {
       width: 30%;
     }
-  
   
     header nav {
       width: 20%;
@@ -614,6 +612,11 @@ input[type=button] {
     }
   
     /* Features */
+
+    .features h2 {
+      margin-bottom: 20px;
+    }
+
     .features article {
       display: flex;
       justify-content: center;
@@ -621,9 +624,13 @@ input[type=button] {
       flex-flow: column wrap;
       flex-basis: 50%;
     }
-    
+    /*****50%-60%*****/
     .features .features-item-description {
-      width: 50%;
+      width: 60%;
+    }
+
+    .features i {
+      margin-bottom: 30px;
     }
   
     /* Reviews */
@@ -656,7 +663,6 @@ input[type=button] {
       font-size: 1.875em;
     }
   
-  
     .footer-content {
       display: flex;
       justify-content: space-between;
@@ -665,6 +671,10 @@ input[type=button] {
   
     footer .contact {
       margin-bottom: 0;
+    }
+
+    footer p {
+      line-height: 1.285;
     }
 
     footer .social-icons {
@@ -705,6 +715,10 @@ input[type=button] {
       justify-content: space-between;
       align-items: flex-start;
     }
+
+    .contact-content {
+      font-size: 1.5em;
+    }
   
     /* ==========================================================================
      FAQ Page
@@ -721,10 +735,20 @@ input[type=button] {
     .faq h2 {
       width: 100%;
     }
+
+    .faq h4,
+    .faq p {
+      font-size: .875em;
+      line-height: 1.125;
+    }
   }
   @media only screen and (min-width: 1200px) {
     /*-----Desktop styles-----*/
     /*-----Base Styles-----*/
+
+    header {
+      padding: 15px 0;
+    }
 
     .content-wrapper {
          max-width: 960px;
@@ -765,7 +789,7 @@ input[type=button] {
     /*-----Features-----*/
 
     .features h2 {
-        width: 55%;
+      width: 90%;
     }
  
     .features article {
@@ -774,15 +798,24 @@ input[type=button] {
  
     /*-----Reviews-----*/ 
 
+    .reviews h2 {
+      padding-bottom: 50px;
+    }
+
     .reviews article div {
         width: 40%;
+    }
+
+    footer h4 {
+      font-size: 1.875em;
     }
  
     /*-----About Page-----*/
 
     .mission h2,
     .contact-section .content-wrapper h2 {
-        width: 100%
+        width: 100%;
+        font-size: 3em;
     }
 
     .map figure {
