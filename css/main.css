@@ -716,7 +716,7 @@ input[type=button] {
       align-items: flex-start;
     }
 
-    .contact-content {
+    .contact-content h4{
       font-size: 1.5em;
     }
   
